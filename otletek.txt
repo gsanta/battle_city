@@ -1,1 +1,1 @@
-ide fogok �tleteket �rni.
+﻿ide fogok ötleteket írni. Most már utf-8-ban.
